@@ -12,7 +12,7 @@ Launch: TBD
 
 mac OS support: TBD
 
-Contact for BETA Tester Qualification: VirtualDAW [at] icloud.com
+Contact: VirtualDAW [at] icloud.com
 
 **[Apply as BETA Tester](https://docs.google.com/forms/d/e/1FAIpQLSd6iFiiFw7dPqzXjwOZQ6-iBnXS48cvSsaIAe5wNjT15CCxDA/viewform)**
 
