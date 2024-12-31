@@ -1,3 +1,21 @@
+VirtualDAW will be a completely virtual digital audio workstation.
+It'll be made for anyone, who wants to produce modern music styles like EDM, Techno, Dance, Trance, Hardcore, HardTechno, HardStyle, HipHop and more.
+It will only process virtual (digital) input sources such as soft synths and audio/media files.
+The initial version will be for Windows10 64bit using VST3-Plugins only. More to come later.
+The future has just begun.
+
+
+BETA-Test: TBD    (If you are a developer or a DAW-user write an email if interested in BETA-Testing)
+Launch: TBD
+mac OS support: TBD
+
+Contact for BETA Tester Qualification: VirtualDAW [at] icloud.com
+
+**[Apply as BETA Tester](https://docs.google.com/forms/d/e/1FAIpQLSd6iFiiFw7dPqzXjwOZQ6-iBnXS48cvSsaIAe5wNjT15CCxDA/viewform)**
+
+For now this is a private project. No company.
+
+
 WARRANTY DISCLAIMER:
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER(S) AND CONTRIBUTOR(S) "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER(S) OR CONTRIBUTOR(S) BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; DAMAGES FOR LOSS OF BUSINESS PROFITS; BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR INABILITY TO USE THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
