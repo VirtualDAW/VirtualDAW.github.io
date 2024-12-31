@@ -2,11 +2,14 @@ VirtualDAW will be a completely virtual digital audio workstation.
 It'll be made for anyone, who wants to produce modern music styles like EDM, Techno, Dance, Trance, Hardcore, HardTechno, HardStyle, HipHop and more.
 It will only process virtual (digital) input sources such as soft synths and audio/media files.
 The initial version will be for Windows10 64bit using VST3-Plugins only. More to come later.
+
 The future has just begun.
+----------
 
+BETA-Test: TBD
 
-BETA-Test: TBD    (If you are a developer or a DAW-user write an email if interested in BETA-Testing)
 Launch: TBD
+
 mac OS support: TBD
 
 Contact for BETA Tester Qualification: VirtualDAW [at] icloud.com
@@ -15,6 +18,8 @@ Contact for BETA Tester Qualification: VirtualDAW [at] icloud.com
 
 For now this is a private project. No company.
 
+
+----------------
 
 WARRANTY DISCLAIMER:
 
