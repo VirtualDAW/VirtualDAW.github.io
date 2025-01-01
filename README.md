@@ -28,4 +28,4 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS SOFTWARE IS PROVIDED BY 
 Depending on your jurisdiction any warranty is limited to the maximum extent of limitation allowed under your jurisdiction. The views and conclusions contained in the software and documentation are those of the author and should not be interpreted as representing official policies, either expressed or implied, of the copyright holders.
 
 
-**[Privacy Policy](https://www.freeprivacypolicy.com/live/4aefc3ef-ea8f-4503-9310-22b29bf94ca6)**
+**[Privacy Policy](https://www.freeprivacypolicy.com/live/40b5ad2b-a9cc-41a6-9bbf-c5feba0321d7)**
