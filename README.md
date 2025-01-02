@@ -7,11 +7,21 @@ The initial version will be for Windows10 64bit using VST3-Plugins only. More to
 The future has just begun.
 ----------
 
+Goal: an affordable DAW for your Laptop / Home Studio for processing virtual input sources.
+
+Search for BETA-Testers: currently
+
 BETA-Test: TBD
 
-Launch: TBD
+Crowd-Funding: TBD (if any)
 
-mac OS support: TBD
+Launch: TBD  (not before 2026)
+
+mac OS support: TBD   (not before 2026)
+
+Any Vocals or other recorded audio data can be recorded with some free tools and saved as WAV files. Those files can be imported.
+So there is no real need for any input capturing; However, maybe later it will be added.
+
 
 Contact: VirtualDAW [at] icloud.com
 
