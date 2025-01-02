@@ -19,6 +19,10 @@ Launch: TBD  (not before 2026)
 
 mac OS support: TBD   (not before 2026)
 
+ASIO support: TBD     (until then WASAPI only)
+
+ARA2 support: TBD
+
 Any Vocals or other recorded audio data can be recorded with some free tools and saved as WAV files. Those files can be imported.
 So there is no real need for any input capturing; However, maybe later it will be added.
 
