@@ -1,12 +1,12 @@
 
 
 
-VirtualDAW will be a completely virtual digital audio workstation. :computer:
+VirtualDAW will be a completely virtual digital audio workstation.
 It'll be made for anyone, who wants to produce modern music styles like EDM, Techno, Dance, Trance, Hardcore, HardTechno, HardStyle, HipHop and more.
-It will only process virtual (digital) input sources such as soft synths :musical_keyboard: and audio/media files :dvd:.
+It will only process virtual (digital) input sources such as soft synths and audio/media files.
 The initial version will be for Windows10 64bit using VST3-Plugins only. More to come later.
 
-:headphones: The future has just begun. :headphones:
+The future has just begun.
 ----------
 
 BETA-Test: TBD
