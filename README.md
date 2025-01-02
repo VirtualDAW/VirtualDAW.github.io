@@ -20,9 +20,12 @@ Contact: VirtualDAW [at] icloud.com
 For now this is a private project. No company.
 
 ----------------
-Follow Social Media On:
-[facebook](https://www.facebook.com/VirtualDAW)     [INSTA](https://www.instagram.com/VirtualDAW)      [X](https://x.com/VirtualDAW)
-
+ <div style="text-align:center">
+Follow on Social Media:
+[facebook](https://www.facebook.com/VirtualDAW)     
+[INSTA](https://www.instagram.com/VirtualDAW)      
+[X](https://x.com/VirtualDAW)
+</div>
 ----------------
 
 WARRANTY DISCLAIMER:
