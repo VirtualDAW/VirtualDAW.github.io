@@ -19,7 +19,8 @@ Contact: VirtualDAW [at] icloud.com
 
 For now this is a private project. No company.
 
-
+----------------
+Follow Social Media On:
 [facebook](https://www.facebook.com/VirtualDAW)     [INSTA](https://www.instagram.com/VirtualDAW)      [X](https://x.com/VirtualDAW)
 
 ----------------
