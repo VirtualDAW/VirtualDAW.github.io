@@ -1,5 +1,8 @@
 Join my Discord Server: https://discord.gg/FQ62sCRwnw
 
+If you want to become a BETA-Tester, please request an invite here: 
+[https://docs.google.com/forms/d/e/1FAIpQLSd6iFiiFw7dPqzXjwOZQ6-iBnXS48cvSsaIAe5wNjT15CCxDA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd6iFiiFw7dPqzXjwOZQ6-iBnXS48cvSsaIAe5wNjT15CCxDA/viewform)
+
 See the project details:  [https://sites.google.com/view/virtualdaw](https://sites.google.com/view/virtualdaw)
 
 [VirtualDAW Legal Notice](https://sites.google.com/view/virtualdaw/virtualdaw/legal)
