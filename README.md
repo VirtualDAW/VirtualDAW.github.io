@@ -1,3 +1,5 @@
+Join my Discord Server: https://discord.gg/FQ62sCRwnw
+
 See the project details:  [https://sites.google.com/view/virtualdaw](https://sites.google.com/view/virtualdaw)
 
 [VirtualDAW Legal Notice](https://sites.google.com/view/virtualdaw/virtualdaw/legal)
