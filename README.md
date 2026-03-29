@@ -8,9 +8,9 @@ If you want to become a BETA-Tester, please visit: [virtualdaw.com/beta/](https:
 
 See the project details:  [virtualdaw.com](https://virtualdaw.com)
 
-[VirtualDAW Legal Notice](virtualdaw.com/legal/)
+[VirtualDAW Legal Notice](https://virtualdaw.com/legal/)
 
-[VirtualDAW Privacy Policy](virtualdaw.com/privacy/)
+[VirtualDAW Privacy Policy](https://virtualdaw.com/privacy/)
 
 Contact: mail@virtualdaw.com
 
