@@ -1,17 +1,18 @@
 
 ![VirtualDAW_Screenshot1](https://github.com/user-attachments/assets/58cfd8c9-6671-47f4-a2c8-6e9e302b7567)
 
-Join my Discord Server: https://discord.gg/FQ62sCRwnw
+Join my Discord Server: [discord.gg/FQ62sCRwnw](https://discord.gg/FQ62sCRwnw)
 
-If you want to become a BETA-Tester, please request an invite by mail: VirtualDAW [at] icloud [dot] com
+If you want to become a BETA-Tester, please visit: [virtualdaw.com/beta/](https://virtualdaw.com/beta/)
 
 
-See the project details:  [https://sites.google.com/view/virtualdaw](https://sites.google.com/view/virtualdaw)
+See the project details:  [virtualdaw.com](https://virtualdaw.com)
 
-[VirtualDAW Legal Notice](https://sites.google.com/view/virtualdaw/virtualdaw/legal)
+[VirtualDAW Legal Notice](virtualdaw.com/legal/)
 
-[VirtualDAW Privacy Policy](https://sites.google.com/view/virtualdaw/virtualdaw/privacy-policy)
+[VirtualDAW Privacy Policy](virtualdaw.com/privacy/)
 
+Contact: mail@virtualdaw.com
 
 WARRANTY DISCLAIMER:
 
